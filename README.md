@@ -1,4 +1,4 @@
-<img align="right" width="728" alt="Alan Yeray pcb" src="https://imgur.com/gslZnIk"/>
+<img align="right" width="728" alt="Alan Yeray pcb" src="https://imgur.com/gallery/pcb-T6dI6ws#gslZnIk)"/>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
