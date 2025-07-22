@@ -8,7 +8,7 @@
 ## Technical Skills & Tools
 
 
-- [C programming language](https://developer.mozilla.org/en-US/docs/Web/html) - The building block of the web. No website can survive without this.
+- [C programming language]() - The building block of the web. No website can survive without this.
 - [Autosar Mcal](https://developer.mozilla.org/en-US/docs/Web/html) - The building block of the web. No website can survive without this.
 - [EB Tresos Tool](https://developer.mozilla.org/en-US/docs/Web/css) - The styling language for the web.
 - [Git](https://git-scm.com/) - Track the history of my projects. It allows me to break things with no worries.
