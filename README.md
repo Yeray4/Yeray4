@@ -1,5 +1,3 @@
-<a href="https://drive.google.com/file/d/15UQHKtyqetYfIQlttAbRO0vIPGrNWTyZ/view?usp=sharing" target="_blank" ></a>
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -11,6 +9,10 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+# 💫 About Me:
+🚀 Autosar software engineer with background in electronics Engineering, trained in the use Mcal Autosar to
+ configure and use the microcontroller as Hardware Abstraccion Layer, Port, Dio, Adc, Pwm, Mem, Mcu, Gpt,
+ Spi, Det. I was also trained in aplication git, code documentantion and unit tests.
 
 
 
