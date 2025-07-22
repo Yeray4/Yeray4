@@ -1,3 +1,5 @@
+<img align="right" width="400" alt="Alan Yeray pcb" src="https://imgur.com/a/T6dI6ws"/>
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="left">
@@ -7,6 +9,8 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 
 ## Technical Skills & Tools
@@ -25,3 +29,10 @@
 - [SolidWorks](https://www.solidworks.com/es) - CAD software for 3D modeling, simulation, and mechanical design.
 - [Altium Designer](https://www.altium.com/) -  Professional PCB design tool for schematic capture and circuit board layout.
 - [Visual Studio Code](https://code.visualstudio.com/) - Lightweight but powerful IDE with extensions for embedded development (e.g., Cortex-Debug, PlatformIO).
+
+
+
+
+------
+
+Last Edited on: 21/07/2025
